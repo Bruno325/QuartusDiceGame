@@ -1,4 +1,4 @@
-# QuartusDiceGame
+# Quartus Dice Game
 This is a 2-player dice game meant to be played on a DE10-Lite Board. 
 The code was written in the Intel Quartus Design Software using Verilog.
 Each player will roll a die and the first to roll a number higher than their opponent five times will win the game.
